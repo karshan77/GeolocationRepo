@@ -1,0 +1,376 @@
+[
+    [
+        "C:\\SF_Project\\geolocation2\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SF_Project\\geolocation2\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1565767311338,
+            "changeTime": 1565767311338,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\SF_Project\\geolocation2\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SF_Project\\geolocation2\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1565767311338,
+            "changeTime": 1565767311338,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SF_Project\\geolocation2\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SF_Project\\geolocation2\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1565771189118,
+            "changeTime": 1565771189118,
+            "contentHash": "2e2bd7661e734ab60690ee45a67fbe3c77fb7fa0"
+        }
+    ],
+    [
+        "C:\\SF_Project\\geolocation2\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SF_Project\\geolocation2\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1565767311339,
+            "changeTime": 1565767311339,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SF_Project\\geolocation2\\force-app\\main\\default\\lwc",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SF_Project\\geolocation2\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1565767340368,
+            "changeTime": 1565767340368,
+            "contentHash": "a973ac1b5be0e216b2a2db1b82ae5ba97f4086f4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SF_Project\\geolocation2",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SF_Project\\geolocation2",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1565768956206,
+            "changeTime": 1565768956206,
+            "contentHash": "806ba1a6fdbf66cfb747163cfbc2797dba062b4e",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SF_Project\\geolocation2\\force-app\\main\\default\\objects\\Fruit__c\\Fruit__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SF_Project\\geolocation2\\force-app\\main\\default\\objects\\Fruit__c\\Fruit__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2053,
+            "modifiedTime": 1565771189043,
+            "changeTime": 1565771189043,
+            "contentHash": "b5f5123dcfb766500944dc450075d32d5feb5d1a"
+        }
+    ],
+    [
+        "C:\\SF_Project\\geolocation2\\force-app\\main\\default\\objects\\Fruit__c\\fields\\Price__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SF_Project\\geolocation2\\force-app\\main\\default\\objects\\Fruit__c\\fields\\Price__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 384,
+            "modifiedTime": 1565771189046,
+            "changeTime": 1565771189046,
+            "contentHash": "2cffb137383c70d6a44b7c3111caf7eb2418d5a4"
+        }
+    ],
+    [
+        "C:\\SF_Project\\geolocation2\\force-app\\main\\default\\objects\\Fruit__c\\listViews\\All.listView-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SF_Project\\geolocation2\\force-app\\main\\default\\objects\\Fruit__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 204,
+            "modifiedTime": 1565771189048,
+            "changeTime": 1565771189048,
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd"
+        }
+    ],
+    [
+        "C:\\SF_Project\\geolocation2\\force-app\\main\\default\\layouts\\Fruit__c-Fruit Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SF_Project\\geolocation2\\force-app\\main\\default\\layouts\\Fruit__c-Fruit Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2082,
+            "modifiedTime": 1565771189057,
+            "changeTime": 1565771189057,
+            "contentHash": "0c716f544badf942069ea4b9cbc69c2e89c1e443"
+        }
+    ],
+    [
+        "C:\\SF_Project\\geolocation2\\force-app\\main\\default\\flexipages\\Geolocation_UtilityBar.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SF_Project\\geolocation2\\force-app\\main\\default\\flexipages\\Geolocation_UtilityBar.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 506,
+            "modifiedTime": 1565771189060,
+            "changeTime": 1565771189060,
+            "contentHash": "8320cb937431a7ef71bc5c9f90de7c3981fd76bc"
+        }
+    ],
+    [
+        "C:\\SF_Project\\geolocation2\\force-app\\main\\default\\tabs\\Fruit__c.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SF_Project\\geolocation2\\force-app\\main\\default\\tabs\\Fruit__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 222,
+            "modifiedTime": 1565771189063,
+            "changeTime": 1565771189063,
+            "contentHash": "e6d3ceb7c99eb8a50672ce743ff76440c6fcc5a6"
+        }
+    ],
+    [
+        "C:\\SF_Project\\geolocation2\\force-app\\main\\default\\applications\\Geolocation.app-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SF_Project\\geolocation2\\force-app\\main\\default\\applications\\Geolocation.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 604,
+            "modifiedTime": 1565771189067,
+            "changeTime": 1565771189067,
+            "contentHash": "882bf600a646e7e2dd67c85bdbbfd7672d616348"
+        }
+    ],
+    [
+        "C:\\SF_Project\\geolocation2\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SF_Project\\geolocation2\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 20186,
+            "modifiedTime": 1565771189083,
+            "changeTime": 1565771189083,
+            "contentHash": "2df3b2660e122c6888e0c8a9acc5895e0ade9586"
+        }
+    ],
+    [
+        "C:\\SF_Project\\geolocation2\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SF_Project\\geolocation2\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4984,
+            "modifiedTime": 1565771189088,
+            "changeTime": 1565771189088,
+            "contentHash": "7bae67f4f043ff6e1bbb98d3aff5a8501a954843"
+        }
+    ],
+    [
+        "C:\\SF_Project\\geolocation2\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SF_Project\\geolocation2\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5322,
+            "modifiedTime": 1565771189109,
+            "changeTime": 1565771189109,
+            "contentHash": "00be36c3ebd14000cd45d83dd5bca598dbb3cdec"
+        }
+    ],
+    [
+        "C:\\SF_Project\\geolocation2\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SF_Project\\geolocation2\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4984,
+            "modifiedTime": 1565771189113,
+            "changeTime": 1565771189113,
+            "contentHash": "7bae67f4f043ff6e1bbb98d3aff5a8501a954843"
+        }
+    ],
+    [
+        "C:\\SF_Project\\geolocation2\\force-app\\main\\default\\appMenus\\AppSwitcher.appMenu-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SF_Project\\geolocation2\\force-app\\main\\default\\appMenus\\AppSwitcher.appMenu-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2001,
+            "modifiedTime": 1565771189123,
+            "changeTime": 1565771189123,
+            "contentHash": "df8d7d1380459dacb8e55241e535e0ce25e3606f"
+        }
+    ],
+    [
+        "C:\\SF_Project\\geolocation2\\force-app\\main\\default\\objects\\Fruit__c",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SF_Project\\geolocation2\\force-app\\main\\default\\objects\\Fruit__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1565771189046,
+            "changeTime": 1565771189046,
+            "contentHash": "66af05d6e617d214f0fb9dd09c7893dc89604a8e"
+        }
+    ],
+    [
+        "C:\\SF_Project\\geolocation2\\force-app\\main\\default\\objects",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SF_Project\\geolocation2\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1565771189039,
+            "changeTime": 1565771189039,
+            "contentHash": "e5e02b5b544b75f660aa97a44c1a361d5fd2112c"
+        }
+    ],
+    [
+        "C:\\SF_Project\\geolocation2\\force-app\\main\\default\\objects\\Fruit__c\\fields",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SF_Project\\geolocation2\\force-app\\main\\default\\objects\\Fruit__c\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1565771189045,
+            "changeTime": 1565771189045,
+            "contentHash": "2ac1b500fe571e215b9bc17096663f0c474c6acf"
+        }
+    ],
+    [
+        "C:\\SF_Project\\geolocation2\\force-app\\main\\default\\objects\\Fruit__c\\listViews",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SF_Project\\geolocation2\\force-app\\main\\default\\objects\\Fruit__c\\listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1565771189048,
+            "changeTime": 1565771189048,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6"
+        }
+    ],
+    [
+        "C:\\SF_Project\\geolocation2\\force-app\\main\\default\\layouts",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SF_Project\\geolocation2\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1565771189056,
+            "changeTime": 1565771189056,
+            "contentHash": "34c6cd682ae6f398dd3c7d51a0f2e623bbdc23ef"
+        }
+    ],
+    [
+        "C:\\SF_Project\\geolocation2\\force-app\\main\\default\\flexipages",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SF_Project\\geolocation2\\force-app\\main\\default\\flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1565771189059,
+            "changeTime": 1565771189059,
+            "contentHash": "e788a0b6de7a04c585cb3836825f3850391141e5"
+        }
+    ],
+    [
+        "C:\\SF_Project\\geolocation2\\force-app\\main\\default\\tabs",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SF_Project\\geolocation2\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1565771189063,
+            "changeTime": 1565771189063,
+            "contentHash": "60eec67ed4d8184a3c0378106174081de1f1eb35"
+        }
+    ],
+    [
+        "C:\\SF_Project\\geolocation2\\force-app\\main\\default\\applications",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SF_Project\\geolocation2\\force-app\\main\\default\\applications",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1565771189066,
+            "changeTime": 1565771189066,
+            "contentHash": "89a06dde37cc1b31351dc0ed3447e87db958f455"
+        }
+    ],
+    [
+        "C:\\SF_Project\\geolocation2\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SF_Project\\geolocation2\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1565771189113,
+            "changeTime": 1565771189113,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+        }
+    ],
+    [
+        "C:\\SF_Project\\geolocation2\\force-app\\main\\default\\appMenus",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SF_Project\\geolocation2\\force-app\\main\\default\\appMenus",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1565771189122,
+            "changeTime": 1565771189122,
+            "contentHash": "7c65d70563206b380e20367663fe2cc611131a2d"
+        }
+    ]
+]
